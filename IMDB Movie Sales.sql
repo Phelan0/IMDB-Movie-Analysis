@@ -17,7 +17,6 @@ with SplitGenre as (
     from movie_data
     cross apply string_split(Genre, ';')
 )
--- CTE kết thúc tại đây
 select 
     md.Rank,
     max(case when sg.rn = 1 then sg.split_genre_value end) as Primary_Genre,
