@@ -21,3 +21,12 @@ Dự án này tập trung vào việc phân tích dữ liệu phim gồm 1000 b�
 - Votes: Số phiếu bầu 
 - Revenue: Doanh thu phim tính bằng triệu
 - Metascrore: Điểm trung bình tổng hợp của các nhà phê bình từ 0 đến 100.
+
+🔗🔗🔗Bảng và trường dữ liệu được tạo thêm:
+- Các trường tạo thêm vào bảng gốc (movie_data)
+  - Primary_Genre: Thể loại chính của phim (chắc chắn có)
+  - Secondary_Genre: Thể loại phụ của phim (có thể có hoặc không)
+  - Tertiary_Genre: Thể loại bổ trợ của phim (có thể có hoặc không)
+- Bảng và dữ liệu tạo thêm (actors_name)
+  - Rank: Lấy từ bảng gốc
+  - Star: Tên diễn viên (Nhiều diễn viên có thể có cùng 1 Rank)
