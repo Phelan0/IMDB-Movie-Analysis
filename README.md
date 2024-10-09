@@ -11,7 +11,7 @@
 [8. Conclusion](#8-conclusion)
 
 ## 1. Project Name  
-### 📍Phân tích các bộ phim chiếu rạp phổ biến nhất từ năm 2006 đến 2016
+### 📍Phân tích thực trạng ngành điện ảnh các bộ phim chiếu rạp năm 2006 - 2016
 
 ## 2. Summary
 Tìm hiểu về sự thay đổi và phát triển của ngành điện ảnh bằng việc phân tích xu hướng làm phim, hành vi xem phim của khán giả
@@ -70,12 +70,10 @@ Chú thích ý nghĩa các trường dữ liệu:
 ## 7. Results and Findings 
 - Góc nhìn tổng quan:
   * Số lượng phim được sản xuất và lọt vào top phim nổi bật của IMDB từ 2006 đến 2016 có xu hướng tăng dần và tăng mạnh trong năm 2016.
-  * Có tổng cộng 21 thể loại phim nhưng chỉ có 13 thể loại trong đó là thể loại phim chính.
   * 3 Thể loại phim được sản xuất nhiều nhất là Action, Drama, Comedy với tỉ lệ lần lượt là 29.3%, 19.5% và 17.5% trên tổng các thể loại phim.
   * 3 thể loại phim có doanh thu trung bình cao nhất là Animation, Action, Adventure.
-  * Thời lượng phim trung bình của các thể loại kéo dài từ khoảng 96 phút đến 123 phút trải đều cho các thể loại. Có thể nhìn sự chênh lệch rõ nhất qua 2 thể loại là Biography và Thriller có sự chênh lệch về thời lượng trung bình là 30 phút.
   * Điểm Metascore và Rating trung bình theo từng thể loại phim chính có sự tương đồng nhau.
-- Khác giả:
+- Tác giả:
   * 3 thể loại phim được đánh giá theo điểm Rating trung bình cao nhất là Animation, Biography, Drama.
   * Lượng Votes và Rating trung bình trong năm 2015 và 2016 giảm mạnh.
   * Bộ phim duy nhất được 9 điểm Rating trong 10 năm là The Dark Knight thuộc thể loại Action.
@@ -83,15 +81,15 @@ Chú thích ý nghĩa các trường dữ liệu:
 - Diễn viên:
   * Số lượng diễn viên tham gia các bộ phim nổi bật của IMDB từ 2006 đến 2016 có xu hướng tăng dần và tăng mạnh trong năm 2016.
   * Các diễn viên tham gia hơn 10 bộ phim tương đối nhiều nhưng chỉ vài diễn viên trong đó là tham gia hơn 5 thể loại phim chính khác nhau.
-  * Diễn viên tham gia nhiều bộ phim có điểm Metascore lớn hơn 90 nhất là Kyle Chandler và Rooney Mara với 2 bộ phim.
-  * Diễn viên tham gia nhiều bộ phim có điểm Rating lớn hơn 8 nhất là Leonardo DiCaprio với 5 bộ phim.
-  * Diễn viên tham gia các bộ phim có doanh thu trung bình cao nhất là Robert Downey Jr với tổng doanh thu các bộ phim tham gia là 262 triệu đô.
+  * Kyle Chandler và Rooney Mara là diễn viên tham gia nhiều bộ phim có điểm Metascore lớn hơn 90 nhất với 2 bộ phim.
+  * Leonardo DiCaprio là diễn viên tham gia nhiều bộ phim có điểm Rating lớn hơn 8 nhất với 5 bộ phim.
+  * Robert Downey Jr là diễn viên tham gia các bộ phim có doanh thu trung bình cao nhất với doanh thu trung bình các bộ phim tham gia là 262 triệu đô.
 - Đạo diễn:
   * Số lượng đạo diễn làm các bộ phim nổi bật của IMDB từ 2006 đến 2016 có xu hướng tăng dần và tăng mạnh trong năm 2016.
   * Có 5 đạo diễn làm nhiều hơn 5 bộ phim đứng đầu là Ridley Scott với 8 bộ phim, nhưng chỉ có 2 người trong số đó là làm nhiều hơn 3 thể loại phim khác nhau là Ridley Scott và M Night Shyamalan.
-  * Đạo diễn làm nhiều bộ phim có điểm Metascore lớn hơn 90 nhất là Kathryn Bigelow với 2 bộ phim.
-  * Đạo diễn làm nhiều bộ phim có điểm Rating lớn hơn 8 nhất là Christopher Nolan với 5 bộ phim.
-  * Đạo diễn làm nhiều bộ phim có doanh thu trung bình cao nhất là Joss Whedon với tổng doanh thu các bộ phim là 541 triệu đô.
+  * Kathryn Bigelow là đạo diễn làm nhiều bộ phim có điểm Metascore lớn hơn 90 nhất với 2 bộ phim.
+  * Christopher Nolan là đạo diễn làm nhiều bộ phim có điểm Rating lớn hơn 8 nhất với 5 bộ phim.
+  * Joss Whedon là đạo diễn làm nhiều bộ phim có doanh thu trung bình cao nhất với doanh thu trung bình các bộ phim là 541 triệu đô.
 ## 8. Conclusion  
 - Trong 10 năm từ 2006 đến 2016, ngành điện ảnh đã có nhiều phát triển cả về số lượng lẫn chất lượng khi ngày càng nhiều bộ phim được lọt top phổ biến của IMDB.
 - Xu hướng làm phim đã có sự thay đổi khi những năm gần đây số lượng phim về thể loại Crime và Adventure đã giảm đáng kể và tập trung vào 3 thể loại chính là Action, Drama, Comedy.
