@@ -45,7 +45,7 @@ Chú thích ý nghĩa các trường dữ liệu:
 ## 4. Tools and analysis method  
 - SQL Server
   * Sử dụng DQL (Data Query Language): select
-  * Sử dụng DDL (Data Definition Language): create, alter
+  * Sử dụng DDL (Data Definition Language): alter
   * Sử dụng DML (Data Manipulation Language): update
   * Sử dụng join: inner join
   * Sử dụng String Function: String_split
